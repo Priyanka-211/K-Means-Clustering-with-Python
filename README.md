@@ -11,7 +11,16 @@ This project presents a conceptual understanding of the **K-Means Clustering** a
 - To determine the optimal number of clusters using the Elbow Method
 - To visualize how K-Means separates data points into clusters
 - To evaluate how well the clusters align with any ground truth labels (if available)
+---
+🛠 Tools & Libraries
 
+Python 3.x
+Jupyter Notebook
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
 ---
 
 ## ⚙️ How K-Means Works
@@ -53,6 +62,7 @@ By exploring this project, you’ll understand:
 - Methods to determine the ideal number of clusters
 - The importance of visualizing and interpreting clustering results
 - Practical challenges of real-world clustering tasks
+
 
 ---
 
