@@ -14,13 +14,13 @@ This project presents a conceptual understanding of the **K-Means Clustering** a
 ---
 🛠 Tools & Libraries
 
-Python 3.x
-Jupyter Notebook
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
+-Python 3.x
+-Jupyter Notebook
+-pandas
+-numpy
+-matplotlib
+-seaborn
+-scikit-learn
 ---
 
 ## ⚙️ How K-Means Works
