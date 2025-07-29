@@ -12,15 +12,14 @@ This project presents a conceptual understanding of the **K-Means Clustering** a
 - To visualize how K-Means separates data points into clusters
 - To evaluate how well the clusters align with any ground truth labels (if available)
 ---
-🛠 Tools & Libraries
+## 🛠 Tools & Libraries
 
--Python 3.x
--Jupyter Notebook
--pandas
--numpy
--matplotlib
--seaborn
--scikit-learn
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
 ---
 
 ## ⚙️ How K-Means Works
